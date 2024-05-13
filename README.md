@@ -4,10 +4,10 @@
 13/05/24
 
 ### Project title
-Bikeshare pproject
+Bikeshare project
 
 ### Description
-Thi sproject is about kikeshare for Udacity 3rd project. Hope is correct
+This project is about kikeshare for Udacity 3rd project. Hope is correct
 
 ### Files used
 Include the files used
